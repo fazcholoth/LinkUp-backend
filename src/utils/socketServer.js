@@ -1,4 +1,4 @@
-export let sers = [];
+export let users = [];
 
 export const addUser = (userId, socketId) => {
   !users.some((user) => user.userId === userId) &&

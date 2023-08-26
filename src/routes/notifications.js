@@ -1,4 +1,4 @@
-import xpress from "express"
+import express from "express"
 import { authMiddleware } from "../middleware/authMiddleware.js"
 import {getNotifications,clearNotifications} from "../controllers/notifications.js"
 const router=express.Router()

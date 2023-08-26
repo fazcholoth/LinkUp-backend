@@ -1,4 +1,4 @@
-import { chema, model } from "mongoose";
+import { Schema, model } from "mongoose";
 import Activity from "./activityFeeds.js";
 
 const postSchema = Schema(

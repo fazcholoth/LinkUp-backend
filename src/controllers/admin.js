@@ -1,4 +1,4 @@
-import ser from "../models/user.js";
+import User from "../models/user.js";
 import Post from "../models/post.js";
 import Activity from "../models/activityFeeds.js"
 

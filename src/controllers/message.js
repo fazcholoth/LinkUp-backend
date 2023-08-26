@@ -1,4 +1,4 @@
-import essage from "../models/message.js";
+import Message from "../models/message.js";
 import User from "../models/user.js";
 
 export const postMessage = async (req, res) => {

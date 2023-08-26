@@ -1,4 +1,4 @@
-import xpress from "express";
+import express from "express";
 import {verify,googleRegister,googleLogin,checkUserBlocked} from "../controllers/auth.js";
 import { authMiddleware } from "../middleware/authMiddleware.js"
 

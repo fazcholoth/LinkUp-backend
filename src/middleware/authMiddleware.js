@@ -1,4 +1,4 @@
-import assport from "passport";
+import passport from "passport";
 import { ExtractJwt, Strategy } from "passport-jwt";
 import User from "../models/user.js";
 import dotenv from "dotenv";
