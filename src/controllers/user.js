@@ -1,4 +1,4 @@
-import User from "../models/user.js";
+import ser from "../models/user.js";
 import Token from "../models/token.js";
 import bcrypt from "bcrypt";
 import crypto from "crypto";

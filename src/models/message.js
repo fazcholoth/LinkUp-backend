@@ -1,4 +1,4 @@
-import { Schema, model } from "mongoose";
+import { chema, model } from "mongoose";
 const messageSchema = new Schema({
   conversationId: { type: Schema.Types.ObjectId, ref: "Conversation" },
   senderId: { type: Schema.Types.ObjectId, ref: "User" },

@@ -1,4 +1,4 @@
-import express from "express";
+import xpress from "express";
 import {
   login,
   getAllUsers,

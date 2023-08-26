@@ -1,4 +1,4 @@
-import express from "express"
+import xpress from "express"
 import {authMiddleware} from "../middleware/authMiddleware.js"
 import {initiateConversation,getConversation,getMembers} from "../controllers/conversation.js"
 const router = express.Router()

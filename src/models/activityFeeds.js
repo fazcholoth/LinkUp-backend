@@ -1,4 +1,4 @@
-import {Schema,model} from "mongoose"
+import {chema,model} from "mongoose"
 const activitySchema = new Schema({
   timestamp: {
     type: Date,

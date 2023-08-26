@@ -1,4 +1,4 @@
-import Conversation from "../models/conversation.js";
+import onversation from "../models/conversation.js";
 import User from "../models/user.js";
 
 export const initiateConversation = async (req, res) => {

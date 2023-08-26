@@ -1,4 +1,4 @@
-import {createTransport} from "nodemailer";
+import {reateTransport} from "nodemailer";
 import * as dotenv from "dotenv"
 dotenv.config()
 

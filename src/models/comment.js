@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import ongoose from "mongoose";
 import  Populate  from "../utils/autoPopulate.js";
 import Activity from "./activityFeeds.js";
 

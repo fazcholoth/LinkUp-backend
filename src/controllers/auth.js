@@ -1,4 +1,4 @@
-import User from "../models/user.js";
+import ser from "../models/user.js";
 import Token from "../models/token.js";
 import { OAuth2Client } from "google-auth-library";
 import * as dotenv from "dotenv";

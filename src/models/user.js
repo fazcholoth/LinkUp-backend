@@ -1,4 +1,4 @@
-import { Schema, model } from "mongoose";
+import { chema, model } from "mongoose";
 import Jwt from "jsonwebtoken";
 import findOrCreate from "mongoose-findorcreate";
 import Activity from "./activityFeeds.js";

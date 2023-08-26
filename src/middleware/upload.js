@@ -1,5 +1,5 @@
 import { log } from "console";
-import multer from "multer";
+import ulter from "multer";
 import path from "path";
 
 export default multer({

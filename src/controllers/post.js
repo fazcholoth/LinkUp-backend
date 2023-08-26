@@ -1,4 +1,4 @@
-import Post from "../models/post.js";
+import ost from "../models/post.js";
 import Report from "../models/report.js";
 import cloudinary from "../services/clodinary.js";
 
